@@ -1,0 +1,111 @@
+
+Sortarea a 1 elemente cu nr mai mici ca 1:
+
+	STL Sort:
+		Timp: 0 secunde
+	Bubblesort:
+		Timp: 0 secunde
+		Sortat!
+	Countsort:
+		Timp: 0 secunde
+		Sortat!
+	Radixsort:
+		Timp: 0 secunde
+		Sortat!
+	Mergesort:
+		Timp: 0 secunde
+		Sortat!
+	Quicksort:
+		Timp: 0 secunde
+		Sortat!
+
+Sortarea a 100 elemente cu nr mai mici ca 100:
+
+	STL Sort:
+		Timp: 0 secunde
+	Bubblesort:
+		Timp: 0 secunde
+		Sortat!
+	Countsort:
+		Timp: 0 secunde
+		Sortat!
+	Radixsort:
+		Timp: 0 secunde
+		Sortat!
+	Mergesort:
+		Timp: 0 secunde
+		Sortat!
+	Quicksort:
+		Timp: 0 secunde
+		Sortat!
+
+Sortarea a 1000 elemente cu nr mai mici ca 1000:
+
+	STL Sort:
+		Timp: 0 secunde
+	Bubblesort:
+		Timp: 0.008999 secunde
+		Sortat!
+	Countsort:
+		Timp: 0 secunde
+		Sortat!
+	Radixsort:
+		Timp: 0 secunde
+		Sortat!
+	Mergesort:
+		Timp: 0.001 secunde
+		Sortat!
+	Quicksort:
+		Timp: 0.001003 secunde
+		Sortat!
+
+Sortarea a 10000 elemente cu nr mai mici ca 10000:
+
+	STL Sort:
+		Timp: 0.001998 secunde
+	Bubblesort:
+		Timp: 0.828946 secunde
+		Sortat!
+	Countsort:
+		Timp: 0.001 secunde
+		Sortat!
+	Radixsort:
+		Timp: 0.001 secunde
+		Sortat!
+	Mergesort:
+		Timp: 0.003001 secunde
+		Sortat!
+	Quicksort:
+		Timp: 0.001999 secunde
+		Sortat!
+
+Sortarea a 100000 elemente cu nr mai mici ca 100000:
+
+	STL Sort:
+		Timp: 0.031998 secunde
+	Bubblesort: Moare
+	Countsort:
+		Timp: 0.004002 secunde
+		Sortat!
+	Radixsort:
+		Timp: 0.015 secunde
+		Sortat!
+	Mergesort:
+		Timp: 0.035999 secunde
+		Sortat!
+	Quicksort:
+		Timp: 0.025996 secunde
+		Sortat!
+
+Sortarea a 1000000 elemente cu nr mai mici ca 1000000:
+
+	STL Sort:
+		Timp: 0.359975 secunde
+	Bubblesort: Moare
+	Countsort:
+		Timp: 0.137993 secunde
+		Sortat!
+	Radixsort:
+		Timp: 0.149995 secunde
+		Sortat!
+	Mergesort:
